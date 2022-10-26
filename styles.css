@@ -4,7 +4,7 @@
 }
 body {
     font-family: "Muli", sans-serif;
-    background-color: #fff598;
+    background-color: #ffffff;
 }
 
 h1 {
@@ -29,7 +29,7 @@ h1 {
 }
 
 .faq.active {
-    background-color: rgb(255, 249, 172);
+    background-color: rgb(255, 251, 225);
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1) 0 3px 6px rgba(0, 0, 0, 0.1);
 }
 
